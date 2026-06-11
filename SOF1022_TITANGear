@@ -25,12 +25,12 @@ Dự án **"Hệ thống Quản lý Thiết bị Ngoại vi Gaming – TITANGear
 
 ## Thành viên nhóm
 
-| Họ tên | Mã SV | Nhiệm vụ |
-|---|---|---|
-| Trần Hoàng An Nam | TV00410 | Trưởng nhóm – Kiến trúc & Backend |
-| Phạm Minh Tú | TV00386 | Thiết kế giao diện & Frontend |
-| Mạc Văn Hải | TV00480 | Phân tích yêu cầu & Use Case |
-| Bùi Viết Đan Trường | TV00465 | Kiểm thử & Tài liệu |
+--
+
+| Trần Hoàng An Nam | TV00410 | 
+| Phạm Minh Tú | TV00386 | 
+| Mạc Văn Hải | TV00480 |
+| Bùi Viết Đan Trường | TV00465 | 
 
 ---
 
@@ -72,11 +72,11 @@ Dự án **"Hệ thống Quản lý Thiết bị Ngoại vi Gaming – TITANGear
 
 ## Công nghệ sử dụng
 
-- Java 17
+- Java 21
 - Spring MVC 5.3
 - SQL Server 2019
 - Bootstrap 5
-- Apache Tomcat 10
+- Apache Tomcat 11
 - Maven 3.9
 - IntelliJ IDEA
 - GitHub
